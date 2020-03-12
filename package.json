@@ -1,0 +1,36 @@
+{
+  "name": "generator-justaskishkis-angular",
+  "version": "0.0.1",
+  "description": "justaskishkis yeoman generator for Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justaskishkis/generator-justaskishkis-angular.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "angular",
+    "typescript",
+    "builder",
+    "scaffold",
+    "generator",
+    "justaskishkis"
+  ],
+  "author": "Justas Kiškis <justaskishkis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justaskishkis/generator-justaskishkis-angular/issues"
+  },
+  "files": [
+    "state"
+  ],
+  "homepage": "https://github.com/justaskishkis/generator-justaskishkis-angular#readme",
+  "dependencies": {
+    "decamelize": "^4.0.0",
+    "uppercamelcase": "^3.0.0",
+    "yeoman-generator": "^4.7.1"
+  }
+}
